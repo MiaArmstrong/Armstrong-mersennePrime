@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MersennePrime()
+comment0.text=\r\n\ Create\ and\ populate\ MersennePrime\r\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getMersennePrime()
+comment1.text=\r\n\ @return\ array\ list\ of\ Mersenne\ prime\ numbers\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getPrime()
+comment2.text=\r\n\ @return\ array\ list\ of\ prime\ numbers\r\n
+comment3.params=
+comment3.target=void\ populateList()
+comment3.text=\r\n\ Calculate\ each\ Mersenne\ prime\ number\ and\ add\ it\ to\ the\ array\ list\r\n\ Mersenne\ prime\ numbers\ are\ added\ to\ the\ Mersenne\ prime\ numbers\ list\ and\ their\r\n\ associated\ prime\ numbers\ are\ added\ to\ the\ prime\ numbers\ list.\r\n
+comment4.params=num
+comment4.target=boolean\ isPrime(long)
+comment4.text=\r\n\ Checks\ weather\ a\ long\ is\ prime\ or\ not\r\n\ @param\ long\r\n\ @return\ boolean\r\n
+numComments=5

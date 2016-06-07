@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MersennePrimeDisplay()
+comment0.text=\r\n\ Create\ an\ object\ to\ display\ data\ on\ Mersenne\ primes\r\n
+comment1.params=
+comment1.target=void\ displayData()
+comment1.text=\r\n\ Display\ data\ on\ Mersenne\ prime\ and\ prime\ numbers\r\n
+numComments=2
